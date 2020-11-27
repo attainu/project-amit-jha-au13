@@ -127,6 +127,7 @@ By choosing 2 the Input.txt will run and print the output of each command.
 This will be input command we have saved in:
 
 Input:
+
 create_parking_lot 6
 
 park KA-01-HH-1234 White jhaamit3214@gmail.com
@@ -156,6 +157,8 @@ slot_numbers_for_cars_with_colour White
 slot_number_for_registration_number KA-01-HH-1234
 
 slot_number_for_registration_number MH-04-AY-1111
+
+Output:
 
 This will prvoide us the Ouput as as show below:
 
