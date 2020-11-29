@@ -125,7 +125,7 @@ if __name__ == "__main__":
             take = all_input_lines.split(" ")
             if take[0] == '':
                 break
-        """try:"""
+       
             
         if take[0] == 'create_parking_lot':
             if len(take) == 2:
@@ -177,7 +177,6 @@ if __name__ == "__main__":
         elif take[0] == 'exit':
             break
         print()
-        #except Exception:
-            #print("Wrong input || Error Occured")
+        
     if a == 2:
         input_file.close()
