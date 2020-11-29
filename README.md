@@ -50,7 +50,7 @@ Extra Features:
 
 | Feature                             | Command                                                              | Eg                                                |
 | ----------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------- |
-| Create Parking                      | create_parking_lot(space)(no of slot per floor)(space)(no of floor)  | create_parking_lot 6 1                            |
+| Create Parking                      | create_parking_lot(space)(no of slot per floor)(space)               | create_parking_lot 6                              |
 | Check Parking Lot Status            | status                                                               | status                                            |
 | Park a new car                      | park(space)(registration no)(space)(car color)(space)(email address) | park KA-01-HH-1234 White jhaamit3214@gmail.com |
 | Leave a car                         | leave(space)(slot no)                                                | leave Floor1Slot4                                 |
